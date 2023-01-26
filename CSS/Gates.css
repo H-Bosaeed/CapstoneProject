@@ -1,0 +1,7 @@
+.container .facility-content {
+    margin: auto;
+
+}
+.container .facility-content:last-child {
+    margin-bottom: 475px;
+}
